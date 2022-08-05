@@ -1,4 +1,4 @@
-# test-project
+# Vue Error Boundary Example
 
 > A Vue.js project
 
